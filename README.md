@@ -33,7 +33,6 @@ proyecto\_segu\_inf/
 │   └── modelo.pkl
 
 └── web/
-
     ├── app.py
 
     └── templates/
@@ -79,7 +78,7 @@ proyecto\_segu\_inf/
    **Iniciar el Servidor Flask:**  
    bash  
    python3 web/app.py  
-4. 
+
 
    ### **Notas Finales**
 
