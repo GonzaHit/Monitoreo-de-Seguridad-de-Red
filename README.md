@@ -33,6 +33,7 @@ proyecto\_segu\_inf/
 │   └── modelo.pkl
 
 └── web/
+
     ├── app.py
 
     └── templates/
