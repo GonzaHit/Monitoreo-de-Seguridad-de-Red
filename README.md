@@ -85,3 +85,6 @@ proyecto\_segu\_inf/
 
 Este proyecto utiliza técnicas de machine learning para detectar patrones de tráfico anómalos y posibles intrusiones en una red. La integración con una base de datos SQLite permite registrar y analizar las intrusiones detectadas, y la interfaz web facilita la visualización de estas estadísticas.
 
+Enlace de youtube como funciona la herramienta
+
+[![Alt text](https://img.youtube.com/vi/uhcKNCb_oCg/0.jpg)](https://www.youtube.com/watch?v=uhcKNCb_oCg)
