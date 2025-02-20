@@ -32,11 +32,8 @@ proyecto_segu_inf/
 │   └── modelo.pkl
 
 └── web/
-
     ├── app.py
-    
     └── templates/
-    
         └── statistics.html
         
 Componentes Principales
